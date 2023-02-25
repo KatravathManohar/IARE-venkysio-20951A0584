@@ -1,0 +1,10 @@
+n=int(input())
+a=float(input())
+b=float(input())
+c=float(input())
+f=(n/100)*a
+s=(n/100)*b
+cp=(n/100)*c
+t=f+s+cp
+z=n-t
+print(z*4)
